@@ -1,3 +1,4 @@
+/*EXP-2(A) Write a java program to find Factorial of given number */
 import java.util.Scanner;
 
 public class Factorial {
