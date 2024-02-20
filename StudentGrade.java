@@ -18,11 +18,11 @@ public class StudentGrade {
         float Percentage = ((float)sum / 500) * 100;
         if (average >= 90) {
             Grade = 'A';
-        } else if (average >= 80) {
+        } else if (average >= 80 && average <= 89) {
             Grade = 'B';
-        } else if (average >= 70) {
+        } else if (average >= 70 && average <= 79) {
             Grade = 'C';
-        } else if (average >= 60) {
+        } else if (average >= 60 && average <= 69 ) {
             Grade = 'D';
         } else {
             Grade = 'F';
