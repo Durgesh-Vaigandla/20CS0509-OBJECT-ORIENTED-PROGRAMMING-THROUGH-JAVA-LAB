@@ -145,6 +145,35 @@ git push -u origin <your_branch_name>
         <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ElseIfLadder.java">ElseIfLadder.java</td>
     </table>
 
+<h2>Applications</h2>
+    <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+            <th>Application Name</th>
+            <th>Description</th>
+            <th>Code</th>
+        </tr>
+        <tr>
+        <td>Student Grade System</td>
+        <td>It Analysis the marks of a student and gives the grade, percentage and total marks as Output.</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/Applications/StudentGrade.java">StudentGrade.java</td>
+        </tr>
+        <tr>
+        <td>Electricity Bill Calculator</td>
+        <td>It gives you the Electricity Bill based of input Units and according to different category.</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/Applications/ElectricityBillCalculator.java">ElectricityBillCalculator.java</td>
+        </tr>
+        <tr>
+        <td>Montly Salary Calculator</td>
+        <td>It gives you the Montly Salary based of input of LPA and HRA, FA and Taxes</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/Applications/MonthlySalaryCalculator.java">MonthlySalaryCalculator.java</td>
+        </tr>
+        <tr>
+        <td>Offer Validation Calculator</td>
+        <td>It Validates the Discount Offer based on Purchase Amount</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/Applications/OfferValidation.java">OfferValidation.java</td>
+        </tr>
+    </table>
+
 ## Repo Maintainers 👷👷:
 
  
