@@ -94,7 +94,7 @@ git push -u origin <your_branch_name>
 <td align="center"><a href="https://github.com/Durgesh-Vaigandla"><img src="https://avatars.githubusercontent.com/u/150946641?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">DURGESH VAIGANDLA</h4>
 <a href="https://www.linkedin.com/in/vaigandladurgesh/"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" width="32px" height="32px"></a></td>
 
-<td align="center"><a href="https://github.com/sujith-karnati"><img src="https://avatars.githubusercontent.com/u/155236920?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">DURGESH VAIGANDLA</h4>
+<td align="center"><a href="https://github.com/sujith-karnati"><img src="https://avatars.githubusercontent.com/u/155236920?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">SUJITH KARNATI</h4>
 <a href="https://linkedin.com/in/sujithkarnati"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" width="32px" height="32px"></a></td>
 </tr>
 </table>
