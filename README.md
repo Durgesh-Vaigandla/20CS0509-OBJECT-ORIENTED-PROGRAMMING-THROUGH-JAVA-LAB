@@ -94,6 +94,17 @@ git push -u origin <your_branch_name>
         <td>To demonstrate the usage of Arithmetic Operators</td>
         <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ArithemeticOperations.java">ArithmeticOperations.java</td>
         </tr>
+        <tr>
+        <td>Assignment Operators</td>
+        <td>To demonstrate the usage of Assignment Operators</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/AssignmentOperators.java">AssignmentOperations.java</td>
+        </tr>
+        <tr>
+        <td>Bitwise Operators</td>
+        <td>To demonstrate the usage of Bitwise Operators</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/BitwiseOperations.java">BitwiseOperations.java</td>
+        </tr>
+
     </table>
 
 ## Repo Maintainers 👷👷:
