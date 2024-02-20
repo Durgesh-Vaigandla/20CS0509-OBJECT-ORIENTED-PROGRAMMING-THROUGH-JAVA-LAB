@@ -8,6 +8,6 @@ public class IfElse {
         }else {
             System.out.println("n is a Odd Number");
         }
+        input.close();
     }
-    
 }

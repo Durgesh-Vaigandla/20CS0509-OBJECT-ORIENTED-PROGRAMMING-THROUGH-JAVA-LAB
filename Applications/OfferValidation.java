@@ -1,3 +1,4 @@
+package Applications;
 import java.util.Scanner;
 
 public class OfferValidation {

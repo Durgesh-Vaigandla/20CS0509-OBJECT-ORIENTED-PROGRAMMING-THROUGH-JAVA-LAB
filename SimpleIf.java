@@ -7,6 +7,7 @@ public static void main(String[] args){
         System.out.println(n+"is poitive number");
         System.out.println("simple if condition");
     }
+    input.close();
     }
 }
   

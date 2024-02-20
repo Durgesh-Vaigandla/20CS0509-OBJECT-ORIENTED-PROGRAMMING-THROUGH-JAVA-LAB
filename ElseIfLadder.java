@@ -19,6 +19,6 @@ public class ElseIfLadder{
         }else if  (n>0){
         System.out.println("n is  negative number");
     }
-    
+    input.close();
     }
 }

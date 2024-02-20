@@ -15,5 +15,6 @@ public class ElseIf {
         } else{
          System.out.println("C is bigger");
         }
+        input.close();
     }
 }

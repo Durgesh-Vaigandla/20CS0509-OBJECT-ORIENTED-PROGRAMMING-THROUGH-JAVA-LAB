@@ -122,7 +122,7 @@ git push -u origin <your_branch_name>
         <tr>
         <td>Shift Operators</td>
         <td>To demonstrate the usage of Shift Operators</td>
-        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ShiftOperations.java">ShifteOperations.java</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ShiftOperations.java">ShiftOperations.java</td>
         </tr>
         <tr>
         <td>Simple If</td>
