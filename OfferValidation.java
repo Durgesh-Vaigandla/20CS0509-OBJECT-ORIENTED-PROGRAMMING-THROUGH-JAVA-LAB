@@ -12,7 +12,7 @@ public class OfferValidation {
         double discount = 0.0;
         if (purchaseAmount >= 1000 && purchaseAmount <= 1500) {
             discount = purchaseAmount * 0.05; // 5% discount for purchase between 1001 to 1500
-        } else if (purchaseAmount > 1500) {
+        } else if (purchaseAmount > 1500 && purchaseAmount < 2000) {
             discount = purchaseAmount * 0.08; // 8% discount for purchase above 1500
         } else if(purchaseAmount > 2000){
             discount = purchaseAmount * 0.10; // 10% discount for purchase above 2000
