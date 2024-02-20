@@ -124,6 +124,25 @@ git push -u origin <your_branch_name>
         <td>To demonstrate the usage of Shift Operators</td>
         <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ShiftOperations.java">ShifteOperations.java</td>
         </tr>
+        <tr>
+        <td>Simple If</td>
+        <td>To demonstrate the usage of Simple If condition</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/SimpleIf.java">SimpleIf.java</td>
+        </tr>
+        <tr>
+        <td> If Else</td>
+        <td>To demonstrate the usage of If Else condition</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/IfElse.java">IfElse.java</td>
+        </td>
+        <tr>
+        <td>ElseIf</td>
+        <td>To demonstrate the usage of Else If condition</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ElseIf.java">elseIf.java</td>
+        </tr>
+        <tr>
+        <td>Else If Ladder</td>
+        <td>To demonstrate the usage of Else If Ladder condition</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ElseIfLadder.java">ElseIfLadder.java</td>
     </table>
 
 ## Repo Maintainers 👷👷:
