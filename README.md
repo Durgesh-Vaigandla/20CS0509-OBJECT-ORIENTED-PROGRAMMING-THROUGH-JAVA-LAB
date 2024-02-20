@@ -104,7 +104,6 @@ git push -u origin <your_branch_name>
         <td>To demonstrate the usage of Bitwise Operators</td>
         <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/BitwiseOperations.java">BitwiseOperations.java</td>
         </tr>
-
     </table>
 
 ## Repo Maintainers 👷👷:
