@@ -84,6 +84,11 @@ git push -u origin <your_branch_name>
             <th>Description</th>
             <th>Code</th>
         </tr>
+        <tr>
+        <td>Hello World</td>
+        <td>To Print Hello World in JAVA</td>
+        <td><a herf="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/Helloworld.java">HelloWorld.java</td>
+        </tr>
     </table>
 
 ## Repo Maintainers 👷👷:
