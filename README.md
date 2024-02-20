@@ -1,10 +1,10 @@
-# 20CS0902-ARTIFICIAL-INTELLIGENCE-LAB
-The repository contains the list of awesome✨ &amp; cool Python Exercises!
+# 20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB
+The repository contains the list of awesome✨ &amp; cool Java Exercises!
 
-<h1 style="align=center">ARTIFICIAL INTELLIGENCE LAB EXPERIMENTS USING PYTHON</h1>
+<h1 style="align=center">20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB</h1>
 
 <div align="center">
-<a href="https://github.com/topics/java"><img alt="Python" src="https://img.shields.io/badge/PYTHON%20-%23E34F26.svg?&style=for-the-badge"/></a>
+<a href="https://github.com/topics/java"><img alt="JAVA" src="https://img.shields.io/badge/JAVA%20-%23E34F26.svg?&style=for-the-badge"/></a>
 <br>
 <br>
 <a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
