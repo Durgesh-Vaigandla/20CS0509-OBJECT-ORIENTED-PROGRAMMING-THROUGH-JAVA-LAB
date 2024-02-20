@@ -104,6 +104,26 @@ git push -u origin <your_branch_name>
         <td>To demonstrate the usage of Bitwise Operators</td>
         <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/BitwiseOperations.java">BitwiseOperations.java</td>
         </tr>
+        <tr>
+        <td>Relational Operators</td>
+        <td>To demonstrate the usage of Relational Operators</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/RelationalOperations.java">RelationalOperations.java</td>
+        </tr>
+        <tr>
+        <td>Logical Operators</td>
+        <td>To demonstrate the usage of Logical Operators</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/LogicalOperations.java">LogicalOperations.java</td>
+        </tr>
+        <tr>
+        <td>Unary Operators</td>
+        <td>To demonstrate the usage of Unary Operators</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/UnaryOperations.java">UnaryOperations.java</td>
+        </tr>
+        <tr>
+        <td>Shift Operators</td>
+        <td>To demonstrate the usage of Shift Operators</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ShiftOperations.java">ShifteOperations.java</td>
+        </tr>
     </table>
 
 ## Repo Maintainers 👷👷:
