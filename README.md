@@ -1,19 +1,110 @@
-# 20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB
-#### Hello World in Java :- [Open Code](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/Helloworld.java) 
+# 20CS0902-ARTIFICIAL-INTELLIGENCE-LAB
+The repository contains the list of awesome✨ &amp; cool Python Exercises!
 
-#### Arithmetic Operators :- [Open Code](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ArithemeticOperations.java)
+<h1 style="align=center">ARTIFICIAL INTELLIGENCE LAB EXPERIMENTS USING PYTHON</h1>
 
-#### Assignment Operators :- [Open Code](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/AssignmentOperators.java)
+<div align="center">
+<a href="https://github.com/topics/java"><img alt="Python" src="https://img.shields.io/badge/PYTHON%20-%23E34F26.svg?&style=for-the-badge"/></a>
+<br>
+<br>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/Durgesh-Vaigandla/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
+<br>
 
-#### Factorial Of a Number :- [Open Code](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/Factorial.java)
+<br>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/graphs/contributors"><img src="https://img.shields.io/github/contributors/Durgesh-Vaigandla/20CS0902-ARTIFICIAL-INTELLIGENCE-LAB?color=brightgreen"></a>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/stargazers"><img src="https://img.shields.io/github/stars/Durgesh-Vaigandla/20CS0902-ARTIFICIAL-INTELLIGENCE-LAB?color=0059b3"></a>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/network/members"><img src="https://img.shields.io/github/forks/Durgesh-Vaigandla/20CS0902-ARTIFICIAL-INTELLIGENCE-LAB?color=yellow"></a>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/issues"><img src="https://img.shields.io/github/issues/Durgesh-Vaigandla/20CS0902-ARTIFICIAL-INTELLIGENCE-LAB?color=0059b3"></a>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Durgesh-Vaigandla/20CS0902-ARTIFICIAL-INTELLIGENCE-LAB?color=yellow"></a>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/pulls"><img src="https://img.shields.io/github/issues-pr/Durgesh-Vaigandla/20CS0902-ARTIFICIAL-INTELLIGENCE-LAB?color=brightgreen"></a>
+<a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Durgesh-Vaigandla/20CS0902-ARTIFICIAL-INTELLIGENCE-LAB?color=0059b3"></a> 
 
-#### Fibonnaci :- [Open Code](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/Fibonacci.java)
+</div>
 
-#### Finding max and min number in the Array :- [Open Code](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/MaxMinArrayElements.java)
+<br>
 
-#### Finding Prime Numbers in a Range :- [Open Code](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/prime.java)
+## HOW TO CONTRIBUTE ? 👷 
 
-#### User defined package :- [Open Code](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/MainProgram.java)
+**1.** Fork [this](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB) repository.
 
-#### Taking Input from user :- [Open Code](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/DataReadWrite.java)
+**2.** Clone the forked repository.
 
+```terminal
+git clone https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB 
+```
+
+**3.** Navigate to the project directory.
+
+```terminal
+cd 20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB
+```
+
+**4.**  MAKE A NEW FILES WITH YOUR EXPERIMENT NAME INSIDE 20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB.
+<br>
+
+**5.**  Also Add the experiment in README file.
+          
+ 
+<br>
+
+**6.** Create a new branch.
+
+```terminal
+git checkout -b <your_branch_name>
+```
+
+**7.** Add & Commit your changes.
+
+```terminal
+  git add .
+  git commit -m "<your_commit_message>"
+```
+
+**7.** Push your local branch to the remote repository.
+
+```terminal
+git push -u origin <your_branch_name>
+```
+
+**8.** Create a Pull Request!
+
+**Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB) 
+
+<br>
+
+<br>
+<h2>Experiment List</h2>
+    <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+            <th>Experiment</th>
+            <th>Description</th>
+            <th>Code</th>
+        </tr>
+    </table>
+
+## Repo Maintainers 👷👷:
+
+ 
+<table>
+<tr>
+<td align="center"><a href="https://github.com/Durgesh-Vaigandla"><img src="https://avatars.githubusercontent.com/u/150946641?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">DURGESH VAIGANDLA</h4>
+<a href="https://www.linkedin.com/in/vaigandladurgesh/"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" width="32px" height="32px"></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/sujith-karnati"><img src="https://avatars.githubusercontent.com/u/155236920?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">DURGESH VAIGANDLA</h4>
+<a href="https://linkedin.com/in/sujithkarnati"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" width="32px" height="32px"></a></td>
+</tr>
+</table>
+
+## Open Source Contribution
+
+Contributions to this repository are welcome! Please feel free to fork this project and submit pull requests to enhance its functionality or fix any issues. If you have any suggestions or find bugs, please open an issue.
+
+## Analytics
+
+[![Repo Size](https://img.shields.io/github/repo-size/Durgesh-Vaigandla/20CS0902-ARTIFICIAL-INTELLIGENCE-LAB.svg)](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB)
+[![License](https://img.shields.io/github/license/Durgesh-Vaigandla/20CS0902-ARTIFICIAL-INTELLIGENCE-LAB.svg)](https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/LICENSE)
