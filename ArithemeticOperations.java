@@ -15,3 +15,12 @@ public class ArithemeticOperations {
         input.close();
     }
 }
+// Sample Output:-
+// Enter a number: 10
+// Enter a number: 5
+// Arithemetic Operations:-
+// 10 + 5 = 15
+// 10 - 5 = 5
+// 10 * 5 = 50
+// 10 / 5 = 2
+// 10 % 5 = 0
