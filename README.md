@@ -143,6 +143,12 @@ git push -u origin <your_branch_name>
         <td>Else If Ladder</td>
         <td>To demonstrate the usage of Else If Ladder condition</td>
         <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/ElseIfLadder.java">ElseIfLadder.java</td>
+        </tr>
+        <tr>
+        <td>Switch Case</td>
+        <td>To demonstrate the usage of Switch Case using calculator application</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/SwitchCalc.java">ElseIfLadder.java</td>
+        </tr>
     </table>
 
 <h2>Applications</h2>
