@@ -147,7 +147,12 @@ git push -u origin <your_branch_name>
         <tr>
         <td>Switch Case</td>
         <td>To demonstrate the usage of Switch Case using calculator application</td>
-        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/SwitchCalc.java">ElseIfLadder.java</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/SwitchCalc.java">SwitchCalc.java</td>
+        </tr>
+                  <tr>
+        <td>While loop</td>
+        <td>To demonstrate the usage of While using sum of n natural numbers</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/SumOfNaturalNumbers.java">SumOfNaturalNumbers.java</td>
         </tr>
     </table>
 
