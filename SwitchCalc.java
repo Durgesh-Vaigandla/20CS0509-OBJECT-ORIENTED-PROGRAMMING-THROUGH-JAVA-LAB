@@ -1,13 +1,13 @@
 import java.util.Scanner;
 public class SwitchCalc {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.print("Enter first number: ");
-        int num1 = scanner.nextInt();
+        int num1 = input.nextInt();
         System.out.print("Enter second number: ");
-        int num2 = scanner.nextInt();
+        int num2 = input.nextInt();
         System.out.print("Enter operator (+, -, *, /, %): ");
-        char operator = scanner.next().charAt(0);
+        char operator = input.next().charAt(0);
         switch (operator) {
             case '+':
                 System.out.println(num1 + " + " + num2 + " = " + (num1 + num2));
@@ -31,7 +31,7 @@ public class SwitchCalc {
             default:
                 System.out.println("Invalid operator entered.");
         }
-        scanner.close();
+        System.out.println("executed by sujith karnati");
+        input.close();
     }
 }
-
