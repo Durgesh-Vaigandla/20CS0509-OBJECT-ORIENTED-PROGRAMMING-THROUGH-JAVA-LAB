@@ -2,27 +2,32 @@ import java.util.Scanner;
 public class Switchcase {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int letter = input.nextInt();
-        letter=0;
-        switch(0){
-            case 'a':
-                System.out.println("It is a vowels");
+        System.out.print("Enter the two numbers: ");
+        int a = input.nextInt();
+        int b = input.nextInt();
+        System.out.print("Enter the operation[+ ,- ,* ,/ ,%]: ");
+        char operation = input.next().charAt(0);
+        int result = 0;
+        switch (operation) {
+            case '+':
+                result = a + b;
                 break;
-            case 'e':
-                System.out.println("It is a vowel");
+            case '-':
+                result = a - b;
                 break;
-            case 'i':
-                System.out.println("It is a vowel");
+            case '*':
+                result = a * b;
                 break;
-            case 'o':
-                System.out.println("It is a vowel");
+            case '/':
+                result = a / b;
                 break;
-            case 'u':
-                System.out.println("It is a vowel");
+            case '%':
+                result = a % b;
                 break;
-            default :
-                System.out.println(" It is not a consonant");
-                break;
-        }input.close();
+            default:
+                System.out.println("Invalid Operation");
+        }
+        System.out.println("The result is: " + result);
+        input.close();
     }
 }

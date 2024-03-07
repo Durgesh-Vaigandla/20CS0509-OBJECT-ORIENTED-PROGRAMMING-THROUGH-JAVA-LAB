@@ -10,6 +10,5 @@ public class SumOfNaturalNumbers {
             i++;
         }
         System.out.println("The sum of the first " + n + " natural numbers is: " + sum);
-        System.out.println("executed b sujith karnati");
-    }
+        input.close();}
 }

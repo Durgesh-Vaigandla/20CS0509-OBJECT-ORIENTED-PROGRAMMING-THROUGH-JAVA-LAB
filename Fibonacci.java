@@ -16,6 +16,6 @@ public class Fibonacci {
             b = sum;
             count++;
         }
-        System.out.println("executed by Sujith9C2");
+        scanner.close();
     }
 }

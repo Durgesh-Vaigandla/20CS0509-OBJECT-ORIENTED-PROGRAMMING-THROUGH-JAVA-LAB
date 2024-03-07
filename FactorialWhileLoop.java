@@ -11,6 +11,6 @@ public class FactorialWhileLoop {
             i++;
         }
         System.out.println("Factorial of " + number + " is: " + factorial);
-        System.out.println("Executed by Sujith9C2");
+        input.close();
     }
 }

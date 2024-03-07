@@ -12,7 +12,7 @@ public class PrimeNumber {
                 System.out.println(num + " is a prime number");
             }
         }
-
+        input.close();
     }
 }
 

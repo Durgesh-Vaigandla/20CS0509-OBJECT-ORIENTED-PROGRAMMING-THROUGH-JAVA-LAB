@@ -149,10 +149,25 @@ git push -u origin <your_branch_name>
         <td>To demonstrate the usage of Switch Case using calculator application</td>
         <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/SwitchCalc.java">SwitchCalc.java</td>
         </tr>
-                  <tr>
+        <tr>
         <td>While loop</td>
         <td>To demonstrate the usage of While using sum of n natural numbers</td>
         <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/SumOfNaturalNumbers.java">SumOfNaturalNumbers.java</td>
+        </tr>
+        <tr>
+        <td>Nested While Loop</td>
+        <td>To demonstrate the usage of Nested While Loop</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/NestedWhileLoop.java">NestedWhileLoop.java</td>
+        </tr>
+        <tr>
+        <td>Infinite While Loop</td>
+        <td>To demonstrate the usage of Infinite While Loop</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/InfiniteWhileLoop.java">InfiniteWhileLoop.java</td>
+        </tr>
+        <tr>
+        <td>Do While Loop</td>
+        <td>To demonstrate the usage of Do-While Loop</td>
+        <td><a href="https://github.com/Durgesh-Vaigandla/20CS0509-OBJECT-ORIENTED-PROGRAMMING-THROUGH-JAVA-LAB/blob/main/DoWhileLoop.java">DoWhileLoop.java</td>
         </tr>
     </table>
 
