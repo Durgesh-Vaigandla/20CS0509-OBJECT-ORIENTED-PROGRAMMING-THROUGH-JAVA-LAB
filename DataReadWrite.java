@@ -4,19 +4,15 @@ import java.util.Scanner;
 public class DataReadWrite {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        System.out.print("Enter an integer: ");
-        int intValue = scanner.nextInt();
-        System.out.println("You entered: " + intValue);
-
-        System.out.print("Enter a floating-point number: ");
-        float floatValue = scanner.nextFloat();
-        System.out.println("You entered: " + floatValue);
-
-        System.out.print("Enter a string: ");
-        String stringValue = scanner.next();
-        System.out.println("You entered: " + stringValue);
-
+        System.out.print("Enter your name: ");
+        String name = scanner.nextLine();
+        System.out.print("Name: "+name);
+        System.out.print("\nEnter your age: ");
+        int age = scanner.nextInt();
+        System.out.print("Age: "+age);
+        System.out.print("\nEnter your salary: ");
+        double salary = scanner.nextDouble();
+        System.out.print("Salary: "+salary);
         scanner.close();
     }
 }
